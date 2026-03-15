@@ -1,0 +1,24 @@
+manifestVersion: 1
+id: rackula
+name: Rackula
+tagline: Visual rack diagram tool for your homelab
+icon: https://raw.githubusercontent.com/rackulalives/rackula/main/public/favicon.png
+category: Networking
+version: "1.0.0"
+port: 8080
+description: >-
+  Rackula is a visual rack diagram tool that lets you design and document
+  your homelab server rack layout with drag-and-drop simplicity.
+developer: Rackula
+website: https://github.com/rackulalives/rackula
+submitter: umbrel
+submission: ""
+repo: https://github.com/rackulalives/rackula
+support: https://github.com/rackulalives/rackula/issues
+gallery: []
+releaseNotes: >-
+  Initial release.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
