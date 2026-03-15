@@ -1,5 +1,5 @@
 manifestVersion: 1
-id: rackula
+id: rackula-rackula
 name: Rackula
 tagline: Visual rack diagram tool for your homelab
 icon: https://raw.githubusercontent.com/rackulalives/rackula/main/public/favicon.png
