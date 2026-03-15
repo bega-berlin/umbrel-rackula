@@ -3,9 +3,9 @@ id: rackula-rackula
 name: Rackula
 tagline: Visual rack diagram tool for your homelab
 icon: https://raw.githubusercontent.com/rackulalives/rackula/main/public/favicon.png
-category: Networking
+category: multimedia
 version: "1.0.0"
-port: 8080
+port: 8090
 description: >-
   Rackula is a visual rack diagram tool that lets you design and document
   your homelab server rack layout with drag-and-drop simplicity.
